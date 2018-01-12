@@ -76,7 +76,7 @@ At a command prompt, type a command similar to the following command to install 
 
 ``` syntax
 MbamServerSetup.exe MBAMServerInstall.log
-CEIPENABLED=True OPTIN_FOR_MICROFOST_UPDATES=True INSTALLDIR=c:\mbaminstall
+CEIPENABLED=True OPTIN_FOR_MICROSOFT_UPDATES=True INSTALLDIR=c:\mbaminstall
 ```
 
 The following table describes the command-line parameters for installing the MBAM 2.5 Server software.
